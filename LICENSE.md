@@ -1,4 +1,4 @@
-# 
+# automatic JetBrains Rider for PC | JetBrains Rider for Windows Addon | code-formatting + version-control-integration offers the most advanced JetBrains Rider for PC | JetBrains
 
 
 
